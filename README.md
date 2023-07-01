@@ -24,7 +24,6 @@ Hi, I am Mohamed Nasser
 <p align="center">
 	<a href="mailto:mohamednasserkamal.1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="www.linkedin.com/in/mohamed-nasser-b727a315a"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	 <a href="https://www.facebook.com/profile.php?id=100004411272689&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     
 </p>
 
@@ -32,10 +31,13 @@ Hi, I am Mohamed Nasser
 
 ### 👨‍💻 Programming Languages
 
-<p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-
+<ul>
+  <li>Verilog</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Python</li>
+</ul>
+   
 ### 🧰 Frameworks and Libraries
 
 <p>
